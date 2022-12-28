@@ -3,3 +3,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qstars\nnvimdots.lua Lazy AF neovim config, well structured in lua.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qstars\nnvimdots.lua Lazy AF neovim config, well structured in lua.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q/u/charliie_chiu on Reddit\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q🦄 This is Charles Chiu\nCharlesChiuGit's GitHub Stats\\E$"}

@@ -9,3 +9,5 @@ lua
 nvimdots
 Cheatsheet
 Cheatsheets
+Neovim
+Chiu
