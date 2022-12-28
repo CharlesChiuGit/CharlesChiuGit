@@ -50,4 +50,4 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: chartist
+          plugin_stargazers_charts_type: classic
