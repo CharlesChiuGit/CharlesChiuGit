@@ -29,7 +29,7 @@ https://github-readme-stats.vercel.app/api?username=CharlesChiuGit&count_private
 
 #### 🔭 Fun stats
 
-![Metrics](https://raw.githubusercontent.com/ibhagwan/ibhagwan/main/github-metrics.svg?)
+![Metrics](https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/main/github-metrics.svg?)
 
 <!--
 **ibhagwan/ibhagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
