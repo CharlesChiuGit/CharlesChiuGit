@@ -57,7 +57,6 @@ jobs:
   "wait": 1,
   "hide": "button, footer, a"
 }
-
           plugin_skyline_year: current-year
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
