@@ -48,14 +48,6 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: ayamir/nvimdots
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_rss: yes
-          plugin_rss_limit: 2
-          plugin_rss_source: https://charleschiugit.github.io/index.xml
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://charleschiugit.github.io/
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
