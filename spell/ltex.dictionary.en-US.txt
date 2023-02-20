@@ -11,3 +11,4 @@ Cheatsheet
 Cheatsheets
 Neovim
 Chiu
+logseq-roam-theme

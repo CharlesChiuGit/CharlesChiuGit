@@ -39,6 +39,9 @@
 - [Lab-env-management](https://github.com/CharlesChiuGit/Lab-env-management):
   Cheatsheets for deploy machine learning environment on Linux/WSL.
   ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/Lab-env-management?style=flat-square)
+- [logseq-roam-theme](https://github.com/CharlesChiuGit/logseq-roam-theme):
+  A Roam Research-like Logseq theme.
+  ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/logseq-roam-theme?style=flat-square)
 
 #### 📫 Contact
 
