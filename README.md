@@ -1,23 +1,36 @@
 # This is Charles Chiu
 
-### 🎧 Hip-Hop enthusiast - 📜 PKM learner - ☕ Coffee addict
+<h3 align="center">
+    🎧 Hip-Hop enthusiast - 📜 PKM learner - ☕ Coffee addict
+</h3>
 
-- 🌱 Learning PKM workflow, Neovim thingy
-- 🕸️ [Personal Blog](https://charleschiugit.github.io/)
+<h4 align="center">
+    🌱 Learning PKM workflow, Neovim thingy | 🕸️ <a href="https://charleschiugit.github.io/">Personal Blog</a>
+</h4>
 
-![CharlesChiuGit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesChiuGit&count_private=true&show_icons=true&theme=gruvbox)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CharlesChiuGit&count_private=false&show_icons=true&theme=tokyonight" alt="CharlesChiuGit's GitHub Stats" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&fontFamily=JetBrainsMono&lineCount=1&theme=catppuccin_mocha&gap=7&hideTitle=true&line1=python,python,3776AB;pytorch,pytorch,ee4c2c;lua,lua,2C2D72;docker,docker,2496ED;" alt="My Tech Stack" />
+</p>
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
 </picture>
+</p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
 
 #### 👀 Stuff you might be interested in
 
