@@ -1,4 +1,6 @@
-# This is Charles Chiu
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=27&pause=1000&color=ADF182&background=52387400&center=true&vCenter=true&random=false&width=450&height=80&lines=Hi+there%2C+this+is+Charles+Chiu." alt="Typing SVG" />
+</p>
 
 <h3 align="center">
     🎧 Hip-Hop enthusiast - 📜 PKM learner - ☕ Coffee addict
