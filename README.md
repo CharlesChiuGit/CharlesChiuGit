@@ -7,11 +7,11 @@
 </h3>
 
 <h4 align="center">
-    🌱 Learning PKM workflow, Neovim thingy | 🕸️ <a href="https://charleschiugit.github.io/">Personal Blog</a>
+    🌱 Learning PKM workflow, Neovim thingy | 🕸️ <a href="https://blog.charliie.dev/">Personal Blog</a>
 </h4>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CharlesChiuGit&count_private=false&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="CharlesChiuGit's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=charliie-dev&count_private=false&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="charliie-dev's GitHub Stats" />
 </p>
 
 <p align="center">
