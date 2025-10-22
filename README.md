@@ -36,8 +36,11 @@
 
 #### 👀 Stuff you might be interested in
 
+- [nix-hm-config](https://github.com/charliie-dev/nix-hm-config):
+  My latest dotfiles based on nix/home-manager.
+  ![Stars](https://img.shields.io/github/stars/charliie-dev/nix-hm-config?style=flat-square)
 - [dotfiles](https://github.com/charliie-dev/dotfiles):
-  needs no introduction.
+  needs no introduction. (Deprecated, I use nix now.)
   ![Stars](https://img.shields.io/github/stars/charliie-dev/dotfiles?style=flat-square)
 - [nvimdots.lua](https://github.com/charliie-dev/nvimdots.lua):
   Lazy AF neovim config, well-structured in lua.
