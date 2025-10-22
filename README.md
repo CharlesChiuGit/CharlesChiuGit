@@ -28,43 +28,33 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
 
 #### 👀 Stuff you might be interested in
 
-- [dotfiles](https://github.com/CharlesChiuGit/dotfiles):
+- [dotfiles](https://github.com/charliie-dev/dotfiles):
   needs no introduction.
-  ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/dotfiles?style=flat-square)
-- [nvimdots.lua](https://github.com/CharlesChiuGit/nvimdots.lua):
+  ![Stars](https://img.shields.io/github/stars/charliie-dev/dotfiles?style=flat-square)
+- [nvimdots.lua](https://github.com/charliie-dev/nvimdots.lua):
   Lazy AF neovim config, well-structured in lua.
-  ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/nvimdots.lua?style=flat-square)
-- [Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101):
+  ![Stars](https://img.shields.io/github/stars/charliie-dev/nvimdots.lua?style=flat-square)
+- [Logseq-Git-Sync-101](https://github.com/charliie-dev/Logseq-Git-Sync-101):
   This repo aims to help Logseq users to sync their data with Git and GitHub.
-  ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/Logseq-Git-Sync-101?style=flat-square)
-- [Logseq-Hugo-Template](https://github.com/CharlesChiuGit/Logseq-Hugo-Template):
+  ![Stars](https://img.shields.io/github/stars/charliie-dev/Logseq-Git-Sync-101?style=flat-square)
+- [Logseq-Hugo-Template](https://github.com/charliie-dev/Logseq-Hugo-Template):
   A HUGO website template for Logseq users to publish their articles.
-  ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/Logseq-Hugo-Template?style=flat-square)
-- [Mailspring-Gruvbox-Round](https://github.com/CharlesChiuGit/Mailspring-Gruvbox-Round):
-  🎨 Gruvbox theme for Mailspring, rounded corners.
-  ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/Mailspring-Gruvbox-Round?style=flat-square)
-- [Lab-env-management](https://github.com/CharlesChiuGit/Lab-env-management):
+  ![Stars](https://img.shields.io/github/stars/charliie-dev/Logseq-Hugo-Template?style=flat-square)
+- [Lab-env-management](https://github.com/charliie-dev/Lab-env-management):
   Cheatsheets for deploy machine learning environment on Linux/WSL.
-  ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/Lab-env-management?style=flat-square)
-- [logseq-roam-theme](https://github.com/CharlesChiuGit/logseq-roam-theme):
-  A Roam Research-like Logseq theme.
-  ![Stars](https://img.shields.io/github/stars/CharlesChiuGit/logseq-roam-theme?style=flat-square)
-
-#### 📫 Contact
-
-- [/u/charliie_chiu on Reddit](https://www.reddit.com/user/charliie_chiu)
+  ![Stars](https://img.shields.io/github/stars/charliie-dev/Lab-env-management?style=flat-square)
 
 #### 🔭 Fun stats
 
-![Metrics](https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/main/github-metrics.svg?)
+![Metrics](https://raw.githubusercontent.com/charliie-dev/charliie-dev/main/github-metrics.svg?)
 
 <!--
 **ibhagwan/ibhagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
