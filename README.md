@@ -57,8 +57,13 @@
 
 #### 🔭 Fun stats
 
-![Metrics](https://raw.githubusercontent.com/charliie-dev/charliie-dev/main/github-metrics.svg?)
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-metrics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-contribution-grid-snake.svg">
+  <img alt="Metrics" src="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-metrics.svg">
+</picture>
+</p>
 <!--
 **ibhagwan/ibhagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
