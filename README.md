@@ -20,14 +20,6 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
-</p>
-
-<p align="center">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -59,8 +51,6 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-metrics.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-contribution-grid-snake.svg">
   <img alt="Metrics" src="https://raw.githubusercontent.com/charliie-dev/charliie-dev/output/github-metrics.svg">
 </picture>
 </p>
@@ -77,4 +67,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
